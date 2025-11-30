@@ -1,0 +1,13 @@
+pom.xml
+src/
+  main/
+     java/
+        com/yourname/crm/
+            controller/
+            model/
+            repository/
+            service/
+            CrmApplication.java
+     resources/
+        application.properties
+  test/
